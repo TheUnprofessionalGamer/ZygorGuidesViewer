@@ -1,0 +1,41 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.blizzard.com/wow/ui/
+..\FrameXML\UI.xsd">
+	<!-- Autoloading of included guides. Add your Guide##.lua files here as you please. -->
+	
+	<Script file="ZygorGuidesAlliance.lua"/>
+	<Script file="ZygorGuidesHorde.lua"/>
+	<Script file="ZygorGuidesAllianceCata.lua"/>
+	<Script file="ZygorDailiesAlliance.lua"/>
+	<Script file="ZygorDailiesHorde.lua"/>
+	<Script file="ZygorGoldAlliance.lua"/>
+	<Script file="ZygorGoldHorde.lua"/>
+	<Script file="ZygorDungeonAlliance.lua"/>
+	<Script file="ZygorDungeonHorde.lua"/>
+	<Script file="ZygorUAlliance.lua"/>
+	<Script file="ZygorUHorde.lua"/>
+
+	<Script file="ZygorGuidesAllianceTrial.lua"/>
+	<Script file="ZygorGuidesHordeTrial.lua"/>
+	<Script file="ZygorDailiesAllianceTrial.lua"/>
+	<Script file="ZygorDailiesHordeTrial.lua"/>
+	<Script file="ZygorGoldAllianceTrial.lua"/>
+	<Script file="ZygorGoldHordeTrial.lua"/>
+
+	<Script file="TUGs\01-10 Elwynn Forest.lua"/>
+	<Script file="TUGs\10-11 DunMorogh+LochModan.lua"/>
+	<Script file="TUGs\11-15 Darkshore.lua"/>
+	<Script file="TUGs\15-17 RR+Loch.lua"/>
+	<Script file="TUGs\17-20 DarkshoreII.lua"/>
+	<Script file="TUGs\20-21 Redridge Mountains.lua"/>
+	<Script file="TUGs\21-23 Ashenvale.lua"/>
+	<Script file="TUGs\22-23 Duskwood.lua"/>
+	<Script file="TUGs\23-24 Stockades.lua"/>
+	<Script file="TUGs\23-25 Redridge MountainsII.lua"/>
+	<Script file="TUGs\25-27 Ashenvale+WetlandsI.lua"/>
+	<Script file="TUGs\27-29 DuskwoodII+WetlandsII.lua"/>
+	<Script file="TUGs\29-30 AshenvaleII.lua"/>
+	<Script file="TUGs\30-31 DuskwoodIII.lua"/>
+	<Script file="TUGs\31-32 Hillsbrad Foothills.lua"/>
+	
+
+</Ui>
